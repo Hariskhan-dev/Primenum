@@ -4,7 +4,7 @@ let x  = 12;
 let count = 0;
 // looping from 1 till x;
 
-for(let i=1; i<=num; i++){
+for(let i=1; i<=x; i++){
 // checking if x is divisble by indexes;
   if(x%i==0){
     // incrementing the count if x is divisible by indexes
